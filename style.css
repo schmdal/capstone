@@ -1,0 +1,35 @@
+body { 
+margin:0; 
+padding:0; 
+}
+#map { 
+position: absolute; 
+width: 1000px; 
+height: 600px; 
+top:45px;  }
+#RemovePopup{ 
+margin-top:0px;
+margin-left: 100px;
+background-color:gray;
+border-radius: 5px;
+font-size: 20px;
+}
+#startend{
+	margin-top:630px;
+	margin-left:50px;
+	
+	
+}
+#h1{
+	font-family: Arial;
+	margin-left:550px;
+	color:blue;
+	
+	
+}
+#Findbest{
+	margin-left: 100px;
+	background-color:green;
+	border-radius: 5px;
+	font-size: 20px;
+}
